@@ -1,0 +1,20 @@
+{
+    "name": "GooRain.Common.Editor.Tests",
+    "references": [
+        "GooRain.Common",
+        "GooRain.Common.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
