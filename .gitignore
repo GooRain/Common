@@ -64,6 +64,11 @@ VSCode/*
 .vscode
 
 # ====== #
+# JetBrains Rider files
+# ====== #
+.idea
+
+# ====== #
 # Others #
 # ====== #
 .~lock.*
